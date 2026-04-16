@@ -7,6 +7,9 @@ A modern, real-time parking management system built with React, Firebase, and Ta
 ![Firebase](https://img.shields.io/badge/Firebase-12.12.0-FFCA28?logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.2.2-38B2AC?logo=tailwind-css)
 
+
+## Demo Link - smart-lot.vercel.app
+
 ## Features
 
 - **Real-time Dashboard**: Live overview of total slots, occupancy, and availability

@@ -8,7 +8,7 @@ A modern, real-time parking management system built with React, Firebase, and Ta
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.2.2-38B2AC?logo=tailwind-css)
 
 
-## Demo Link - smart-lot.vercel.app
+## Demo Link - smart-lot.vercel.app/
 
 ## Features
 
